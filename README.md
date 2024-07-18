@@ -19,4 +19,4 @@ A RESTful API built using Node.js and Express.js to manage a collection of books
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Lalithabhimireddy13/book-management-api.git
+   git clone https://github.com/Lalithabhimireddy13/book-management-api.gitNavigate to the project directory:
